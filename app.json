@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ict-shortcourse-app",
+    "slug": "ict-shortcourse-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
+    "scheme": "myapp",
+
+    "plugins": ["expo-router"]
+  }
+}
