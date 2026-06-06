@@ -52,7 +52,7 @@ export default function Login() {
 
             Alert.alert("SUCCESS", "Login imefanikiwa 🔥");
 
-            router.replace("/");
+            router.replace("/home" as any);
           } else {
             Alert.alert("ERROR", "Email au Password sio sahihi");
           }
