@@ -1,20 +1,6 @@
 # ICT SHORT COURSE AT VETA KIPAWA
 
-This repository contains the source code for the ICT Short Course Application.
-
-## Project Setup
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the application:
-
-```bash
-npx expo start
-```
+Mobile learning application for ICT short courses at VETA Kipawa.
 
 ## Features
 
@@ -24,3 +10,29 @@ npx expo start
 - Course Notes
 - Firebase Firestore Integration
 - PDF Notes Access
+
+## Project Setup
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run project:
+
+```bash
+npx expo start
+```
+
+## Project Structure
+
+```text
+app/
+assets/
+components/
+config/
+constants/
+firebaseConfig.js
+package.json
+```
