@@ -36,3 +36,11 @@ constants/
 firebaseConfig.js
 package.json
 ```
+
+## Technologies Used
+
+- React Native
+- Expo Router
+- Firebase Firestore
+- Firebase Storage
+- TypeScript
